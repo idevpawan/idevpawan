@@ -1,6 +1,6 @@
 <h1>Namaste 🙏</h1>
 Passionate developer and lifelong learner with a strong interest in technology and innovation. I'm constantly exploring new tools and techniques to improve my skills and expand my knowledge. Whether it's creating cutting-edge applications or contributing to open-source projects, I'm always eager to take on new challenges and collaborate with like-minded individuals. Let's build something amazing together!
------
+--------
 
 ## 🌐 Socials:
 
